@@ -2,9 +2,10 @@
 <h3 align="center">A passionate DevOps Engineer from Turkey</h3>
 
 - 🔭 I’m currently working on **AWS & DevOps**
-
+- 💬 I am passionate to learn and cooperate, **and I am eager to share my knowledge**
+- ⚡ An individual who tries to improve and update myself in the field of software **and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast**
 - 📫 How to reach me **karismazm@gmail.com**
-
+  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
