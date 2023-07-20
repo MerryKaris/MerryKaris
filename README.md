@@ -1,8 +1,5 @@
 <h1 align="left">Hi , I'm Muberra Welcome to My GitHub Page</h1>
 
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
 
