@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on AWS & DevOps<br><br>💬 I am passionate to learn and cooperate, and I am eager to share my knowledge<br><br>⚡ An individual who tries to improve and update myself in the field of software and to benefit people on this platform. <br>Especially DevOps & Cloud Engineer enthusiast<br><br>📫 How to reach me karismazm@gmail.com</p>
+<p align="left">🔭 I’m currently working on AWS & DevOps<br><br>💬 I am passionate to learn and cooperate, and I am eager to share my knowledge<br><br>⚡ An individual who tries to improve and update myself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast<br><br>📫 How to reach me karismazm@gmail.com</p>
 
 ###
 
