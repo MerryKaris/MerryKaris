@@ -1,5 +1,4 @@
-<h1 align="left">Hi , I'm Muberra Welcome to My GitHub Page</h1>
-
+<h1 align="center">Hi , I'm Muberra <br>Welcome to My GitHub Page</h1>
 
 ###
 
@@ -7,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on AWS & DevOps<br>💬 I am passionate to learn and cooperate, and I am eager to share my knowledge<br>⚡ An individual who tries to improve and update myself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast<br>📫 How to reach me karismazm@gmail.com</p>
+<p align="left">🔭 I’m currently working on AWS & DevOps<br><br>💬 I am passionate to learn and cooperate, and I am eager to share my knowledge<br><br>⚡ An individual who tries to improve and update myself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast<br><br>📫 How to reach me karismazm@gmail.com</p>
 
 ###
 
@@ -24,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
@@ -32,13 +31,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -98,6 +97,3 @@
 </div>
 
 ###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MerryKaris/MerryKaris/output/snake.svg" alt="Snake animation" />
