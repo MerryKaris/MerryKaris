@@ -1,13 +1,25 @@
-<h1 align="center">Hi , I'm Muberra Welcome to My GitHub Page</h1>
-<h3 align="center">A passionate DevOps Engineer from Turkey</h3>
+<h1 align="left">Hi , I'm Muberra Welcome to My GitHub Page</h1>
 
-- 🔭 I’m currently working on **AWS & DevOps**
-- 💬 I am passionate to learn and cooperate, **and I am eager to share my knowledge**
-- ⚡ An individual who tries to improve and update myself in the field of software **and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast**
-- 📫 How to reach me **karismazm@gmail.com**
-  
+###
+
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">A passionate DevOps Engineer from Turkey</h2>
+
+###
+
+<p align="left">🔭 I’m currently working on AWS & DevOps<br>💬 I am passionate to learn and cooperate, and I am eager to share my knowledge<br>⚡ An individual who tries to improve and update myself in the field of software and to benefit people on this platform. Especially DevOps & Cloud Engineer enthusiast<br>📫 How to reach me karismazm@gmail.com</p>
+
+###
+
+<h3 align="left">SKILLS & TOOLS</h3>
+
+###
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
@@ -58,19 +70,34 @@
 
 ###
 
+<h3 align="left">Connect with me:</h3>
+
+###
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/muberra-karismaz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="www.karismazm@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<h3 align="left">CERTIFICATIONS</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
 
 <div align="center">
   <img height="200" src="https://media.tenor.com/P2JdzwII3q4AAAAi/bare-tree-media-btm.gif"  />
+</div>
+
+###
+
+<div align="left">
 </div>
 
 ###
