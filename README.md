@@ -98,3 +98,6 @@
 </div>
 
 ###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MerryKaris/MerryKaris/output/snake.svg" alt="Snake animation" />
